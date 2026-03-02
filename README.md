@@ -10,9 +10,13 @@ _"Coding with purpose. Building with care."_
 
 ## 📊 GitHub Stats & Contributions
 
-| Stats & Languages                                                                                                                                                                                                                                                                                                  | Contribution Graph                                                                                                                 | Streak                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| [![Jasjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasjot190&show_icons=true&theme=radical)](https://github.com/jasjot190) <br> [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasjot190&layout=compact&theme=radical)](https://github.com/jasjot190) | ![Jasjot's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jasjot190&theme=react-dark&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasjot190&theme=radical) |
+[![Jasjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasjot190&show_icons=true&theme=radical)](https://github.com/jasjot190)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasjot190&layout=compact&theme=radical)](https://github.com/jasjot190)
+
+![Jasjot's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jasjot190&theme=react-dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasjot190&theme=radical)
 
 ---
 
