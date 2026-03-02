@@ -2,19 +2,9 @@
 
 [Portfolio](https://jasjots-blog.vercel.app/) · [GitHub](https://github.com/jasjot190) · [LinkedIn](https://www.linkedin.com/in/jasjotsingh/) · [Email](mailto:jasjotsingh6787@gmail.com)
 
-Full-Stack Software Developer · AWS Certified Cloud Practitioner · Mobile & Web App Enthusiast
+Full-Stack Software Developer · AWS Certified Cloud Practitioner · Mobile & Web App Specialist
 
 _"Coding with purpose. Building with care."_
-
----
-
-## 👨‍💻 About Me
-
-I'm a motivated junior software developer passionate about **full-stack development, scalable backends, and AI-enhanced solutions**. I thrive in collaborative environments and enjoy creating software that solves real-world problems.
-
-🎓 Graduate of SAIT – Software Development Diploma (3.9 GPA, Dean’s List, Student Excellence Award, Jason Lang Scholarship)  
-🌱 Building high-impact software with MERN stack, Next.js, AWS, Docker, and modern web technologies  
-🍬 Fun Fact: I debug better when I have chai ☕
 
 ---
 
@@ -43,38 +33,42 @@ I'm a motivated junior software developer passionate about **full-stack developm
 ## 🚀 Projects
 
 <details>
-<summary>New Homes in Calgary (Capstone Project, 2025)</summary>
+<summary>🏢 New Homes in Calgary (Capstone Project, 2025)</summary>
 
 - AI-enhanced real estate platform with user dashboards, admin panels, and analytics tools
 - Scalable backend architecture with real-time synchronization & Row-Level Security
 - REST APIs for property scraping, authentication, and AI chatbot
-- CI/CD pipelines deployed via AWS and Vercel  
+- CI/CD pipelines deployed via AWS and Vercel
+- **Project Screenshot/GIF:** ![Placeholder](https://via.placeholder.com/600x300.png?text=New+Homes+Project)  
 [View Project](https://www.newhomeincalgary.ca/)
 </details>
 
 <details>
-<summary>Custom Chat Wrapper (SelfBot, 2025)</summary>
+<summary>🤖 Custom Chat Wrapper (SelfBot, 2025)</summary>
 
 - Domain-specific AI chat wrapper using Chatbase
 - Configured intents and conversation flows for accuracy
 - API-based integration with web applications for real-time messaging
+- **Project Screenshot/GIF:** ![Placeholder](https://via.placeholder.com/600x300.png?text=Chat+Wrapper)
 </details>
 
 <details>
-<summary>Dynamic Blog Platform (2024)</summary>
+<summary>💻 Dynamic Blog Platform (2024)</summary>
 
 - Full-stack blog platform with Firebase backend & Express.js server
 - SEO-optimized frontend with React + Next.js + Tailwind CSS
-- Backend deployed on AWS  
+- Backend deployed on AWS
+- **Project Screenshot/GIF:** ![Placeholder](https://via.placeholder.com/600x300.png?text=Blog+Platform)  
 [View Live Blog](https://jasjots-blog.vercel.app/)
 </details>
 
 <details>
-<summary>Other Projects</summary>
+<summary>📂 Other Projects</summary>
 
 - Mobile App Development – Collaborative team projects at SAIT
 - Contact Us Page – Responsive UI fetching and displaying database messages
 - Add Property Modal – Dynamic UI with image/floor plan uploads, Supabase integration
+- **Project Screenshot/GIF Placeholder:** ![Placeholder](https://via.placeholder.com/600x300.png?text=Other+Projects)
 </details>
 
 ---
@@ -84,15 +78,6 @@ I'm a motivated junior software developer passionate about **full-stack developm
 - 2024–2025 – **SAIT**, Diploma in Software Development
 - 2022–2023 – **DAV University**, Bachelor of Computer Applications (Thesis: Performance Optimization in Scalable Web Applications)
 - 2025 – **100xDevs by Harkirat Singh** — Full-Stack Web Development Certificate
-
----
-
-## 🌱 Fun / Personal Touch
-
-- Learning Arabic 🕌
-- Night shifts at Shell – fuel up with late-night coding ☕
-- Debugging is better with music or chai
-- Passionate about creating apps that solve real problems
 
 ---
 
